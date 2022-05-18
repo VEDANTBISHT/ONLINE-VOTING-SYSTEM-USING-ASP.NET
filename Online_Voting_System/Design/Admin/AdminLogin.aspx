@@ -137,7 +137,7 @@
 
             <hr />
             <footer>
-                <p>&copy; <%: DateTime.Now.Year %> - My ASP.Net Application</p>
+                <p>&copy; <%: DateTime.Now.Year %> - BY VEDANT BISHT 20BCS7212</p>
             </footer>
         </div>
     </form>
